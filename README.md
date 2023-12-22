@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumit9623&label=Profile%20views&color=0e75b6&style=flat" alt="sumit9623" /> </p>
 
-<!--
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumit9623" alt="sumit9623" /></a> </p>
--->
-
 - 🌱 I’m currently learning **REDUX**
 
 - 👯 I’m looking to collaborate on **Full stack projects**
@@ -15,11 +11,11 @@
 
 - 👨‍💻 All of my projects are available at [https://sumittupeportfolio.netlify.app/](https://sumittupeportfolio.netlify.app/)
 
+- 📄 Know about me [**Resume**](https://drive.google.com/file/d/1lMhzcL6xhKmYwGNU3oXNU2FHnSF_RGHj/view?usp=sharing)
+
 - 💬 Ask me about **MERN**
 
 - 📫 How to reach me **sumittupe9623@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1lMhzcL6xhKmYwGNU3oXNU2FHnSF_RGHj/view?usp=sharing](https://drive.google.com/file/d/1lMhzcL6xhKmYwGNU3oXNU2FHnSF_RGHj/view?usp=sharing)
 
 - ⚡ Fun fact **I am not Funny.**
 
