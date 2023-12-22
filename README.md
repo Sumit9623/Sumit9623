@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumit9623&label=Profile%20views&color=0e75b6&style=flat" alt="sumit9623" /> </p>
 
-- 🌱 I’m currently learning **REDUX**
+- 🌱 I’m currently learning **Full Stack Web Developement**
 
-- 👯 I’m looking to collaborate on **Full stack projects**
+- 👯 Working on my **Career** 😂😃
 
 - 🤝 I’m looking for **Intenships and FTE offers.**
 
