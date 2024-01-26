@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Developement**
 
-- 👯 Working on my **Career** 😂😃
+- 👯 Working on my **Career** 🎯🎯
 
 - 🤝 I’m looking for **Intenships and FTE offers.**
 
