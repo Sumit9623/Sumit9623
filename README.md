@@ -1,23 +1,20 @@
-<h1 align="center">Hi 👋,This is Sumit B Tupe✨ ✨</h1>
+<h1 align="center">Hi 👋,This is Sumit Tupe✨ ✨</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumit9623&label=Profile%20views&color=0e75b6&style=flat" alt="sumit9623" /> </p>
 
 - 🌱 I’m currently learning **Full Stack Web Developement**
 
-- 👯 Working on my **Career** 🎯🎯
-
 - 🤝 I’m looking for **Intenships and FTE offers.**
 
-- 👨‍💻 All of my projects are available at [https://sumittupeportfolio.netlify.app/](https://sumittupeportfolio.netlify.app/)
+- 👨‍💻 here is [**My Portfolio**](https://sumitportfolio.vercel.app/)
 
-- 📄 Know about me [**Resume**](https://drive.google.com/file/d/1lMhzcL6xhKmYwGNU3oXNU2FHnSF_RGHj/view?usp=sharing)
+- 📄 Know about me [**Resume**](https://drive.google.com/file/d/1T9Caidh3RTGAvn8geTFUmn3xrGdkwuAN/view?usp=sharing)
 
 - 💬 Ask me about **MERN**
 
 - 📫 How to reach me **sumittupe9623@gmail.com**
 
-- ⚡ Fun fact **I am not Funny.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
