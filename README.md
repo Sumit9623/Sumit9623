@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋,This is Sumit Tupe✨ ✨</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumit9623&label=Profile%20views&color=0e75b6&style=flat" alt="sumit9623" /> </p>
-
 - 🌱 I’m currently learning **Full Stack Web Developement**
 
 - 🤝 I’m looking for **Intenships and FTE offers.**
