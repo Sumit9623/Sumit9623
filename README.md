@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently doing **Full Stack Web Developement**
 
-- 🤝 I’m looking for **Intenships and Full Time offers.**
+- 🤝 I’m looking for **Internships and Full Time offers.**
 
 - 👨‍💻 here is [**My Portfolio**](https://sumitportfolio.vercel.app/)
 
