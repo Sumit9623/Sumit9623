@@ -8,7 +8,7 @@
 
 - 👨‍💻 here is [**My Portfolio**](https://sumitportfolio.vercel.app/)
 
-- 📄 Know about me [**Resume**](https://drive.google.com/file/d/1T9Caidh3RTGAvn8geTFUmn3xrGdkwuAN/view?usp=sharing)
+- 📄 Know about me [**Resume**](https://drive.google.com/file/d/1hyo_wx7ARitvzP94YqbF5OBpyL4BjWtu)
 
 - 💬 Ask me about **MERN**
 
