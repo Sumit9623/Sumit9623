@@ -8,11 +8,9 @@
 
 - 👨‍💻 here is [**My Portfolio**](https://sumitportfolio.vercel.app/)
 
-- 📄 Know about me [**Resume**](https://drive.google.com/file/d/1hyo_wx7ARitvzP94YqbF5OBpyL4BjWtu)
+- 📄 Know about me [**Resume**](https://drive.google.com/file/d/1bMdIwe8He35up_ZxdPJhyiN0r5P_9Y8Z/view)
 
-- 💬 Ask me about **MERN**
-
-- 📫 How to reach me **sumittupe9623@gmail.com**
+- 📫 How to reach me **sumittupe24@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
