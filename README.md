@@ -15,8 +15,4 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumit9623&show_icons=true&locale=en&layout=compact" alt="sumit9623" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumit9623&show_icons=true&locale=en" alt="sumit9623" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumit9623&" alt="sumit9623" /></p>
