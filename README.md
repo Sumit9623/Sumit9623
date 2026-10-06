@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋,This is Sumit Tupe✨ ✨</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">Delivery Data Analyst at Turing</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumit9623&label=Profile%20views&color=0e75b6&style=flat" alt="sumit9623" /> </p>
-
-- 🌱 I’m currently doing **Full Stack Web Developement**
-
-- 🤝 I’m looking for **Internships and Full Time offers.**
 
 - 👨‍💻 here is [**My Portfolio**](https://sumitportfolio.vercel.app/)
 
@@ -15,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sumit-tupe-8027a0241/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumit-tupe-8027a0241/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sumit-tupe/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumit-tupe-8027a0241/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
